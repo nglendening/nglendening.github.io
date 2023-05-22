@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Coates"
+title                    : "mncoates@uci.edu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew Coates"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine."
+  bio              : "I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine. mncoates@uci.edu"
   location         : 
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : "mncoates@uci.edu"
   researchgate     :  
   uri              :
   bitbucket        :
