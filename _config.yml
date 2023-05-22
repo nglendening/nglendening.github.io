@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Coates"
-  avatar           : "images/profile.png"
+  avatar           : "https://matthewncoates.github.io/images/images/profile.png"
   bio              : "I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine."
   location         : 
   employer         :
