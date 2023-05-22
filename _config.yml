@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://matthewncoates.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "matthewncoates/matthewncoates.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Coates"
-  avatar           : "https://matthewncoates.github.io/images/images/profile.png"
+  avatar           : "profile.png"
   bio              : "I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine."
   location         : 
   employer         :
