@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Matthew Coates"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine.
+
+My research interests are in network epistemology, a branch of formal social epistemology that investigates how networks of agents gather and share information. My dissertation uses these tools to study the effects of bad dissent in scientific communities, and possible ways to deal with this bad dissent. 
+
+I am also interested in the philosophy of biology, and in the history of early analytic philosophy. These latter interests are mostly focused on the work of the economist John Maynard Keynes, including his philosophy of probability and his interactions with philosophers such as Russell, Moore and Wittgenstein.
+
+In my spare time, I enjoy birding and bird photography. 
 
 A data-driven personal website
 ======
