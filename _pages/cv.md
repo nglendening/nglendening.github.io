@@ -28,9 +28,15 @@ Works in Progress
 ======
 
 
-Talks
+Talks and Presentations
 ======
-* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires. July 2023 [Scheduled]
+**Refereed**
+* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023 [Scheduled]
+* "Modelling Hiding Dissent in Journal Publications". Poster at the Philosophy of Science Association (PSA). Pittsburgh, PA. November 2022.
+* "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
+
+**Invited**
+
 
 
 
