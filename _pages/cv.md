@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+A downloadable version of this CV can be found here
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D. Candidate** Philosophy (LPS), *University of California, Irvine*, 2025 [Expected].
+* **MSc**  Philosophy of Science, *The London School of Economics and Political Science*, 2018
+* **BSc (Hons)** Mathematics, *Queen Mary, University of London*, 2017
+
+Publications
+======
 
 Work experience
 ======
@@ -36,11 +41,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
