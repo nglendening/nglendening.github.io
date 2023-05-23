@@ -14,6 +14,9 @@ A downloadable version of this CV can be found here
 Education
 ======
 * **Ph.D. Candidate** Philosophy (LPS), *University of California, Irvine*, 2025 [Expected].
+  * Graduate Emphasis in Biology and the Behavioral Sciences
+  * Advisor: Cailin O’Connor
+  * Dissertation: "Network Epistemology Tools Applied to Problems in Epistemically Detrimental Dissent"   
 * **MSc**  Philosophy of Science, *The London School of Economics and Political Science*, 2018
 * **BSc (Hons)** Mathematics, *Queen Mary, University of London*, 2017
 
