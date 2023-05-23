@@ -42,4 +42,14 @@ Talks and Presentations
 
 Service
 ======
+**Conferences**
+* **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
+
+Teaching
+======
+**Instructor**
+* Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
+
+**Teaching Assistant**
+
 
