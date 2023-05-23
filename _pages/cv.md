@@ -30,7 +30,7 @@ Works in Progress
 
 Talks
 ======
-* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires. Joly 2023 [Scheduled]
+* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires. July 2023 [Scheduled]
 
 
 
