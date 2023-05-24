@@ -17,6 +17,3 @@ I am also interested in science and policy, the philosophy of biology, and in th
 
 In my spare time, I enjoy birding and bird photography. 
 
-For more info
-------
-
