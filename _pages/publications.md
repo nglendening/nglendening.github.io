@@ -12,11 +12,12 @@ redirect_from:
 Dissertation
 ======
 * **Network Epistemology Tools Applied to Problems in Epistemically Detrimental Dissent**
+* There has been growing concern about so called "epistemically detrimental" dissent in science, and what to do about this dissent. This is dissent which considered detrimental to the advancement of science. In my dissertaion, I use formal methods from network epistemology to study the effect of sharing evidence that supports dissenting theories. I do this to introduce the tools of network epistemology to the debate on "epistemically detrimental" dissent, where they have not previously been used. By introducing such methods it is possible to offer new possible explanations for observed phenomena, and use the results of these models to lend further support to arguments in this debate
 
 Models of Scientific Communities and Social Epistemology:
 ======
 * **Modelling Hiding Dissent in Journal Publications**
-  * 
+  * Increased attention to epistemically detrimental dissent in science has led to discussions about how scientific communities should respond. One proposed method is to hide it by preventing its publication in journals; however, the effectiveness of this strategy has been questioned. Using network models, I simulate the epistemic effects of hiding dissenting evidence on scientific communities. I find evidence that it typically may be epistemically harmful to hide dissenting evidence, and this harm holds even when there exists an agent purposefully producing biased evidence supporting that theory. However, I also find that if dissenting evidence starts being hidden when scientists are sufficiently far along the path to consensus it is just as epistemically successful, but also quicker. Quicker consensus is important in situations where decisions must be made quickly, such as public health emergencies. This may justify hiding dissent when a mainstream theory has large amounts of evidence for it.
 
 Early Analytic Philosophy:
 ======
