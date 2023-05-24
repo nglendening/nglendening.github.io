@@ -42,8 +42,9 @@ Talks and Presentations
 
 Service
 ======
-**Conferences**
+* **Judge**, Undergraduate Research Symposium Poster Session, UC Irvine, May 2023.
 * **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
+* **Volunteer Curation and Research**, Freeliving and Parasitic Worm Collections, Natural History Museum London, 2017-2019
 
 Teaching
 ======
