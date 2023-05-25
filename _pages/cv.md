@@ -22,11 +22,10 @@ Education
 
 Publications
 ======
-
+* Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 2022
 
 Works in Progress
 ======
-
 
 Talks and Presentations
 ======
@@ -44,7 +43,8 @@ Service
 ======
 * **Judge**, Undergraduate Research Symposium Poster Session, UC Irvine, May 2023.
 * **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
-* **Volunteer Curation and Research**, Freeliving and Parasitic Worm Collections, Natural History Museum London, 2017-2019
+* **Organizer**, Talk by John Worrall, The London School of Economics and Political Science, November 2017.
+* **Volunteer Curation and Research**, Freeliving and Parasitic Worm Collections, Natural History Museum London, 2017-2019.
 
 Teaching
 ======
@@ -62,6 +62,11 @@ Teaching
 * Critical Reasoning (LPS 29), Fall 2020, UC Irvine
 * Introduction to Inductive Logic (LPS 31), Spring 2020, UC Irvine
 * Critical Reasoning (LPS 29), Winter 2020, UC Irvine
+
+Research Employment and Collaborations
+======
+* **Graduate Student Researcher,**, Supported by NSF grant 1922424: "Consensus, Democracy, and the Public Understanding of Science" (Co-PIs O’Connor and Weatherall). Conducted research on hiding dissent by scientists. Summers 2020, 2021
+* **Researcher**, Freeliving and Parasitic Worm Collections, Natural History Museum London. Helped to perform research using mapping and computational modelling to understand the effects of climate change on worm populations.  2017-2019
 
  
  
