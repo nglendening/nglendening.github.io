@@ -26,6 +26,9 @@ Publications
 
 Works in Progress
 ======
+* Modelling Hiding Dissent in Journal Publications [In Preperation]
+* Keynes, Wittgenstein, and Probability in the Tractatus [In Preperation]
+
 
 Talks and Presentations
 ======
