@@ -16,7 +16,7 @@ Education
 * **Ph.D. Candidate** Philosophy (LPS), *University of California, Irvine*, 2025 [Expected].
   * Graduate Emphasis in Biology and the Behavioral Sciences
   * Advisor: Cailin O’Connor
-  * Dissertation: "Network Epistemology Tools Applied to Problems in Epistemically Detrimental Dissent"   
+  * Dissertation: "Is it ever good to hide dissent in science?: a network modeling approach to dissent"   
 * **MSc**  Philosophy of Science, *The London School of Economics and Political Science*, 2017-2018
 * **BSc (Hons)** Mathematics, *Queen Mary, University of London*, 2014-2017
 
