@@ -35,6 +35,9 @@ Talks and Presentations
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
 
 **Invited**
+* “Modelling Hiding Dissent in Journal Publications”, Science, Values, and Policy workshop, June 2023 [Scheduled]
+* “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
+
 
 
 
