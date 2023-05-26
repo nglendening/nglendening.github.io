@@ -7,6 +7,7 @@ author_profile: true
 
 **Instructor**
 * Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
+  * The goal of this course is to introduce the symbolism and methods of the logic of statements, including evaluation of arguments by truth tables, the techniques of natural deduction and semantic tableaux
 
 **Teaching Assistant**
 * Global Economy (Econ 13), Spring 2023, UC Irvine
