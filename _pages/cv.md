@@ -79,6 +79,35 @@ Additional Educational and Professional Training
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
 * Microsoft Excel Core Certification
 
+Graduate coursework(*=audit)
+======
+**UC Irvine**
+* How We Became Human (with Kyle Stanford)*
+* Game Theory in the Philosophy of Biology (with Cailin O'Connor)
+* Social Dynamics (with Louis Narens and Brian Skyrms) x3
+* Mathematical and Computational Biology (with German Encisco)
+* Keynes' Philosophy of Probability (independent study with Brian Skyrms)
+* Chance (with Simon Huttegger and Brian Skyrms)
+* Intro to Voting Theory (with Marek Kaminski)
+* Emerging Inequality (with Cailin O'Connor)*
+* History of Analytic Philosophy (with Jeremy Heis)
+* Philosophy of Science (topic: Decision Theory and Deliberation with Simon Huttegger) 
+* Philosophy of Cosmology (with Chris Smeenk and James Weatherall)*
+* Political Economy 1 (with Stergios Skaperdas)
+* Kant's First Critique (with Jeremy Heis)
+* The Social Contract (with Brian Skyrms)
+* Network Epistemology (with Cailin O'Connor)
+* Incompleteness (with Toby Meadows)
+* Metalogic (with Toby Meadows)
+* Money (with Aaron James)
+* University Teaching x4
+
+**LSE**
+======
+* Set Theory and Further Logic (with Miklos Redei and David Makinson)*
+* Philosophy of Science (with Ioannis Votsis)
+* Einstein for Everyone (with Bryan Roberts)
+* Physics and the City (with Bryan Roberts)
 
 
 
