@@ -62,20 +62,23 @@ Teaching
 * Philosophy of Sex (LPS 91), Winter 2023, UC Irvine
 * Peoples of the Pacific (Anthro 163A), Fall 2022, UC Irvine
 * Introduction to Inductive Logic (LPS 31), Spring 2022, UC Irvine
-* Introduction to Symbolic Logic (LPS 30), Winter 2022, UC Irvine
-* Critical Reasoning (LPS 29), Fall 2021, UC Irvine
-* Introduction to Symbolic Logic (LPS 30), Winter 2021, UC Irvine
-* Critical Reasoning (LPS 29), Fall 2020, UC Irvine
-* Introduction to Inductive Logic (LPS 31), Spring 2020, UC Irvine
+* Introduction to Symbolic Logic (LPS 30), Winter 2022, UC Irvine [Hybrid]
+* Critical Reasoning (LPS 29), Fall 2021, UC Irvine [Online]
+* Introduction to Symbolic Logic (LPS 30), Winter 2021, UC Irvine [Online]
+* Critical Reasoning (LPS 29), Fall 2020, UC Irvine [Online]
+* Introduction to Inductive Logic (LPS 31), Spring 2020, UC Irvine [Online]
 * Critical Reasoning (LPS 29), Winter 2020, UC Irvine
 
 Research Employment and Collaborations
 ======
-* **Graduate Student Researcher,**, Supported by NSF grant 1922424: "Consensus, Democracy, and the Public Understanding of Science" (Co-PIs O’Connor and Weatherall). Conducted research on hiding dissent by scientists. Summers 2020, 2021
+* **Graduate Student Researcher**, Supported by NSF grant 1922424: "Consensus, Democracy, and the Public Understanding of Science" (Co-PIs O’Connor and Weatherall). Conducted research on hiding dissent by scientists. Summers 2020, 2021
 * **Researcher**, Freeliving and Parasitic Worm Collections, Natural History Museum London. Helped to perform research using mapping and computational modelling to understand the effects of climate change on worm populations.  2017-2019
 
- 
- 
+Additional Educational and Professional Training
+======
+* Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
+* Microsoft Excel Core Certification
+
 
 
 
