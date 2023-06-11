@@ -51,6 +51,7 @@ Service
 * **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
 * **Organizer**, Talk by John Worrall, The London School of Economics and Political Science, November 2017.
 * **Volunteer Curation and Research**, Freeliving and Parasitic Worm Collections, Natural History Museum London, 2017-2019.
+* **Founder and President**, Philosophy Society, Queen Mary, University of London, 2016-2017
 
 Teaching
 ======
