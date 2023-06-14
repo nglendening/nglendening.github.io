@@ -42,7 +42,9 @@ Talks and Presentations
 * “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
 
 
-
+Awards and Fellowships
+======
+* LPS Graduate Service Award (UCI, 2023, $150) 
 
 
 Service
