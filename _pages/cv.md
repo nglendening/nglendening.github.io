@@ -44,7 +44,8 @@ Talks and Presentations
 
 Awards and Fellowships
 ======
-* LPS Graduate Service Award (UCI, 2023, $150) 
+* LPS Graduate Service Award (UC Irvine, 2023, $150)
+* Social Science Merit Fellowship, School of Social Science (UC Irvine, 2019-2025)
 
 
 Service
