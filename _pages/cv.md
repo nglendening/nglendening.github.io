@@ -26,19 +26,19 @@ Publications
 
 Works in Progress
 ======
-* Modelling Hiding Dissent in Journal Publications [In Preperation]
+* Does it Harm Science to Suppress Dissenting Evidence? [In Preperation]
 * Keynes, Wittgenstein, and Probability in the Tractatus [In Preperation]
 
 
 Talks and Presentations
 ======
 **Refereed**
-* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023 [Scheduled]
+* "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023
 * "Modelling Hiding Dissent in Journal Publications". Poster at the Philosophy of Science Association (PSA). Pittsburgh, PA. November 2022.
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
 
 **Invited**
-* “Modelling Hiding Dissent in Journal Publications”, Science, Values, and Policy workshop, June 2023 [Scheduled]
+* “Modelling Hiding Dissent in Journal Publications”, Science, Values, and Policy workshop, June 2023 
 * “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
 
 
@@ -59,6 +59,7 @@ Service
 Teaching
 ======
 **Instructor**
+* Philosophy of Sex (LPS 91), Fall 2023, UC Irvine
 * Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
 
 **Teaching Assistant**
