@@ -33,6 +33,7 @@ Works in Progress
 Talks and Presentations
 ======
 **Refereed**
+* "Does it Harm Science to Suppress Dissenting Evidence?", Workshop on Computational Models in Social Epistemology. Bochum, Germany. December 2023 
 * "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023
 * "Modelling Hiding Dissent in Journal Publications". Poster at the Philosophy of Science Association (PSA). Pittsburgh, PA. November 2022.
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
@@ -50,6 +51,9 @@ Awards and Fellowships
 
 Service
 ======
+* **Reviewer**, UC Irvine Graduate Philosophy Conference, 2023-2024
+* **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
+* **Coordinator**, Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, UC Irvine, Fall 2023.
 * **Judge**, Undergraduate Research Symposium Poster Session, UC Irvine, May 2023.
 * **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
 * **Organizer**, Talk by John Worrall, The London School of Economics and Political Science, November 2017.
@@ -63,6 +67,7 @@ Teaching
 * Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
 
 **Teaching Assistant**
+* Voting and Manipulation (Pol Sci 151), Winter 2024, UC Irvine
 * Global Economy (Econ 13), Spring 2023, UC Irvine
 * Philosophy of Sex (LPS 91), Winter 2023, UC Irvine
 * Peoples of the Pacific (Anthro 163A), Fall 2022, UC Irvine
@@ -87,6 +92,7 @@ Additional Educational and Professional Training
 Graduate coursework(*=audit)
 ======
 **UC Irvine**
+* Puzzles in Modern Biology (with Steve Frank)
 * How We Became Human (with Kyle Stanford)*
 * Game Theory in the Philosophy of Biology (with Cailin O'Connor)
 * Social Dynamics (with Louis Narens and Brian Skyrms) x3
