@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Instructor**
+*Philosophy of Sex (I.e. Philosophy of the Sciences of Sex & Gender) (LPS 91), Fall 2023, UC Irvine
+  *The goal of this course is to explore the role of social values related to sex, gender and race in the production of scientific knowledge, particularly focused on biology. Students learn about the sciences of sexual selection, sex differences in humans, and human behavior and sexuality, and they investigate the influence of cultural values of sex and gender on those sciences. Students will learn philosophy of science concepts such as underdetermination, values in science and theory-ladenness of observation. Throughout the course, they will also strive to better understand cultural beliefs about sex, gender and race.
 * Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
   * The goal of this course is to introduce the symbolism and methods of the logic of statements, including evaluation of arguments by truth tables, the techniques of natural deduction and semantic tableaux
 
