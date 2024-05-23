@@ -96,6 +96,7 @@ Additional Educational and Professional Training
 Graduate coursework(*=audit)
 ======
 **UC Irvine**
+* Self Assembling Games (with Jeff Barrett and Brian Skyrms)
 * Puzzles in Modern Biology (with Steve Frank)
 * How We Became Human (with Kyle Stanford)*
 * Game Theory in the Philosophy of Biology (with Cailin O'Connor)
@@ -119,7 +120,7 @@ Graduate coursework(*=audit)
 
 **LSE**
 ======
-* Set Theory and Further Logic (with Miklos Redei and David Makinson)*
+* Set Theory and Further Logic (with Miklos Redei and David Makinson)
 * Philosophy of Science (with Ioannis Votsis)
 * Einstein for Everyone (with Bryan Roberts)
 * Physics and the City (with Bryan Roberts)
