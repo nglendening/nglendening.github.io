@@ -22,17 +22,19 @@ Education
 
 Publications
 ======
+* **Coates, Matthew**. "Does it Harm Science to Suppress Dissenting Evidence?" Forthcoming in *Philosophy of Science*
 * Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 2022
 
 Works in Progress
 ======
-* Does it Harm Science to Suppress Dissenting Evidence? [In Preperation]
-* Keynes, Wittgenstein, and Probability in the Tractatus [In Preperation]
+* Multilayer Networks and the Evolution of Risky Cooperation  [In Preperation]
+* Keynes, Wittgenstein, and Probability in the Tractatus [Under Review]
 
 
 Talks and Presentations
 ======
 **Refereed**
+* "Multilayer Networks and the Evolution of Risky Cooperation?”, Philosophy of Biology at the Mountains (POBAM) 2024. University of Utah, Salt Lake City, Utah. July 2024 [Forthcoming]
 * "Does it Harm Science to Suppress Dissenting Evidence?", Workshop on Computational Models in Social Epistemology. Bochum, Germany. December 2023 
 * "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023
 * "Modelling Hiding Dissent in Journal Publications". Poster at the Philosophy of Science Association (PSA). Pittsburgh, PA. November 2022.
@@ -51,6 +53,7 @@ Awards and Fellowships
 
 Service
 ======
+* **Judge**, Undergraduate Research Symposium, UC Irvine, April-May 2024
 * **Reviewer**, UC Irvine Graduate Philosophy Conference, 2023-2024
 * **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
 * **Coordinator**, Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, UC Irvine, Fall 2023.
@@ -63,6 +66,7 @@ Service
 Teaching
 ======
 **Instructor**
+* Introduction to Symbolic Logic (LPS 30), Summer 2024, UC Irvine
 * Philosophy of Sex (LPS 91), Fall 2023, UC Irvine
 * Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
 
