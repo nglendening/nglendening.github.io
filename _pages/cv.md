@@ -34,29 +34,35 @@ Works in Progress
 Talks and Presentations
 ======
 **Refereed**
-* "Multilayer Networks and the Evolution of Risky Cooperation?”, Philosophy of Biology at the Mountains (POBAM) 2024. University of Utah, Salt Lake City, Utah. July 2024 [Forthcoming]
+* "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. [Forthcoming] 
+* "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
+* "Does it Harm Science to Suppress Dissenting Evidence?", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
+* "Multilayer Networks and the Evolution of Risky Cooperation", Philosophical Engagement with Biology and Medicine Workshop, Bielefeld University, Bielefeld, Germany. September 2024 [Forthcoming] 
+* "Multilayer Networks and the Evolution of Risky Cooperation?”, Philosophy of Biology at the Mountains (POBAM) 2024. University of Utah, Salt Lake City, Utah. July 2024 
 * "Does it Harm Science to Suppress Dissenting Evidence?", Workshop on Computational Models in Social Epistemology. Bochum, Germany. December 2023 
 * "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023
 * "Modelling Hiding Dissent in Journal Publications". Poster at the Philosophy of Science Association (PSA). Pittsburgh, PA. November 2022.
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
 
 **Invited**
-* “Modelling Hiding Dissent in Journal Publications”, Science, Values, and Policy workshop, June 2023 
+* “Modelling Hiding Dissent in Journal Publications”, University of California Science, Values, and Policy Workshop, June 2023 
 * “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
 
 
 Awards and Fellowships
 ======
+* LPS Graduate Service Award (UC Irvine, 2024, $150)
 * LPS Graduate Service Award (UC Irvine, 2023, $150)
 * Social Science Merit Fellowship, School of Social Science (UC Irvine, 2019-2025)
 
 
 Service
 ======
+* **Organizer**, Symposium on “Modeling the Social Structure of Science,” PPE 2024, New Orleans, November 2024.
+* **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
+* **Coordinator**, Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, UC Irvine, 2023-2024.
 * **Judge**, Undergraduate Research Symposium, UC Irvine, April-May 2024
 * **Reviewer**, UC Irvine Graduate Philosophy Conference, 2023-2024
-* **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
-* **Coordinator**, Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, UC Irvine, Fall 2023.
 * **Judge**, Undergraduate Research Symposium Poster Session, UC Irvine, May 2023.
 * **Co-organizer**, Conference on “Values, Fairness, and Machine Learning,” UC Irvine, June 2022.
 * **Organizer**, Talk by John Worrall, The London School of Economics and Political Science, November 2017.
@@ -92,6 +98,11 @@ Additional Educational and Professional Training
 ======
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
 * Microsoft Excel Core Certification
+
+Research Employment and Collaborations
+======
+* **Graduate Student Researcher**, Supported by NSF grant 1922424: “Consensus, Democracy, and the Public Understanding of Science” (Co-PIs O’Connor and Weatherall). Conducted research on hiding dissent by scientists to policy makers. Summers 2020, 2021
+* **Researcher**, Freeliving and Parasitic Worm Collections, Natural History Museum London. Helped to perform research using mapping and computational modelling to understand the effects of climate change on worm populations. 2017-2019
 
 Graduate coursework(*=audit)
 ======
