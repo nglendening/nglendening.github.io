@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/b63e5095444dcc26b42fd3372683c5b13f446d04/MatthewCoatesCV.pdf)
+A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/MatthewCoatesCV.pdf)
 
 Education
 ======
