@@ -11,7 +11,7 @@ redirect_from:
 
 Models of Scientific Communities and Social Epistemology:
 ======
-* **Dissertation: Is it ever good to hide dissent in science?: a network modeling approach to dissent**
+* **Dissertation: Network Epistemology and Scientific Dissent**
   * There has been growing concern about so called "epistemically detrimental" dissent in science, and what to do about this dissent. This is dissent which is considered detrimental to the advancement of science. In my dissertaion, I use formal methods from network epistemology to study the effect of sharing evidence that supports dissenting theories. I do this to introduce the tools of network epistemology to the debate on "epistemically detrimental" dissent, where they have not previously been used. By introducing such methods it is possible to offer new possible explanations for observed phenomena, and use the results of these models to lend further support to arguments in this debate.
 * **Does it Harm Science to Suppress Dissenting Evidence?**
   * Forthcoming in *Philosophy of Science*
@@ -26,7 +26,7 @@ Evolutionary Game Theory
 Early Analytic Philosophy:
 ======
 * **Keynes, Wittgenstein, and Probability in the Tractatus**
-  * Under Review
+  * Forthcoming in *HOPOS*
   * <details><summary>Abstract</summary><font size = "3">It has been questioned why Wittgenstein wrote a significant amount on probability in the Tractatus. In this paper I answer this question. I claim that the primary aim of Wittgenstein's account was to criticize a Keynesian theory of probability and provide multiple pieces of evidence to demonstrate this. This then provides an answer to the question of why Wittgenstein wrote such a significant amount on probability. He wrote it because it was salient at the time. Whilst Wittgenstein was at Cambridge there was significant discussion of probability by his philosophical interlocutors, particularly Keynes but also Russell, Moore and others. Wittgenstein thought he had the answers to the problems that were being discussed and set them out in the Tractatus.</font></details>
 
 
