@@ -11,24 +11,27 @@ redirect_from:
 
 A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/MatthewCoatesCV.pdf)
 
+Updated 2024/10/28
+
 Education
 ======
 * **Ph.D. Candidate** Philosophy (LPS), *University of California, Irvine*, 2025 [Expected].
   * Graduate Emphasis in Biology and the Behavioral Sciences
   * Advisor: Cailin O’Connor
-  * Dissertation: "Is it ever good to hide dissent in science?: a network modeling approach to dissent"   
+  * Dissertation: "Network Epistemology and Scientific Dissent"   
 * **MSc**  Philosophy of Science, *The London School of Economics and Political Science*, 2017-2018
 * **BSc (Hons)** Mathematics, *Queen Mary, University of London*, 2014-2017
 
 Publications
 ======
 * **Coates, Matthew**. "Does it Harm Science to Suppress Dissenting Evidence?" Forthcoming in *Philosophy of Science*
+* **Coates, Matthew**. "Keynes, Wittgenstein, and Probability in the Tractatus" Forthcoming in *HOPOS*
 * Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 2022
 
 Works in Progress
 ======
 * Multilayer Networks and the Evolution of Risky Cooperation  [In Preperation]
-* Keynes, Wittgenstein, and Probability in the Tractatus [Under Review]
+* Does Managing industrial dissent help public belief [In Preperation]
 
 
 Talks and Presentations
@@ -37,7 +40,7 @@ Talks and Presentations
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. [Forthcoming] 
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
 * "Does it Harm Science to Suppress Dissenting Evidence?", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
-* "Multilayer Networks and the Evolution of Risky Cooperation", Philosophical Engagement with Biology and Medicine Workshop, Bielefeld University, Bielefeld, Germany. September 2024 [Forthcoming] 
+* "Multilayer Networks and the Evolution of Risky Cooperation", Philosophical Engagement with Biology and Medicine Workshop, Bielefeld University, Bielefeld, Germany. September 2024 
 * "Multilayer Networks and the Evolution of Risky Cooperation?”, Philosophy of Biology at the Mountains (POBAM) 2024. University of Utah, Salt Lake City, Utah. July 2024 
 * "Does it Harm Science to Suppress Dissenting Evidence?", Workshop on Computational Models in Social Epistemology. Bochum, Germany. December 2023 
 * "Modelling Hiding Dissent in Journal Publications", 17th International Congress on Logic, Methodology and Philosophy of Science and Technology (CLMPST). Buenos Aires, Argentina. July 2023
@@ -99,11 +102,6 @@ Additional Educational and Professional Training
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
 * Microsoft Excel Core Certification
 
-Research Employment and Collaborations
-======
-* **Graduate Student Researcher**, Supported by NSF grant 1922424: “Consensus, Democracy, and the Public Understanding of Science” (Co-PIs O’Connor and Weatherall). Conducted research on hiding dissent by scientists to policy makers. Summers 2020, 2021
-* **Researcher**, Freeliving and Parasitic Worm Collections, Natural History Museum London. Helped to perform research using mapping and computational modelling to understand the effects of climate change on worm populations. 2017-2019
-
 Graduate coursework(*=audit)
 ======
 **UC Irvine**
@@ -111,7 +109,7 @@ Graduate coursework(*=audit)
 * Puzzles in Modern Biology (with Steve Frank)
 * How We Became Human (with Kyle Stanford)*
 * Game Theory in the Philosophy of Biology (with Cailin O'Connor)
-* Social Dynamics (with Louis Narens and Brian Skyrms) x3
+* Social Dynamics (with Louis Narens and Brian Skyrms) x5
 * Mathematical and Computational Biology (with German Encisco)
 * Keynes' Philosophy of Probability (independent study with Brian Skyrms)
 * Chance (with Simon Huttegger and Brian Skyrms)
