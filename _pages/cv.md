@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/MatthewCoatesCV.pdf)
+A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/Academic%20CV.pdf)
 
 Updated 2024/10/28
 
