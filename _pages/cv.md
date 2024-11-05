@@ -25,8 +25,8 @@ Education
 Publications
 ======
 * **Coates, Matthew**. 2024. “Does it Harm Science to Suppress Dissenting Evidence?” *Philosophy of Science*. https://doi.org/10.1017/psa.2024.21
-* **Coates, Matthew**. 2022. "Keynes, Wittgenstein, and Probability in the Tractatus" Forthcoming in *HOPOS*
-* Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 
+* **Coates, Matthew**. "Keynes, Wittgenstein, and Probability in the Tractatus" Forthcoming in *HOPOS*
+* Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. 2022. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 
 
 Works in Progress
 ======
