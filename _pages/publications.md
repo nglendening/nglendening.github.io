@@ -18,18 +18,17 @@ Models of Scientific Communities and Social Epistemology:
   * [Preprint](https://philsci-archive.pitt.edu/23472/) 
   * <font size = "3"> There has been increased attention on how scientific communities should respond to spurious dissent. One proposed method is to hide such dissent by preventing its publication. To investigate this, I computationally model the epistemic effects of hiding dissenting evidence on scientific communities. I find that it is typically epistemically harmful to hide dissent, even when there exists an agent purposefully producing biased dissent. However, hiding dissent also allows for quicker correct epistemic consensus among scientists. Quicker consensus may be important when policy decisions must be made quickly, such as during a pandemic, suggesting times when hiding dissent may be useful. </font>
 
+Evolutionary Game Theory:
+======
+* **Multilayer Networks and the Evolution of Risky Cooperation**
+  * <details><summary>Abstract</summary><font size = "3">Philosophers have shown that social networks significantly influence the emergence of prosocial behaviors. However, despite real social communities often being characterized by agents acting in different social spaces at the same time, network structures that capture this, such as multilayer networks, have received little study. In this paper, using the stag hunt game, I show that multilayer networks have a significant effect on the extent to which cooperation emerges in cases where cooperation is risky. Given many real social communities are multilayer, I therefore argue that when studying the impact of networks on prosocial behaviors, multilayer networks should be investigated.</font></details>
+
 Early Analytic Philosophy:
 ======
 * **Keynes, Wittgenstein, and Probability in the Tractatus**
   * Forthcoming in *HOPOS*
   * [Preprint](https://philsci-archive.pitt.edu/24159/)
   * <details><summary>Abstract</summary><font size = "3">It has been questioned why Wittgenstein wrote a significant amount on probability in the Tractatus. In this paper I answer this question. I claim that the primary aim of Wittgenstein's account was to criticize a Keynesian theory of probability and provide multiple pieces of evidence to demonstrate this. This then provides an answer to the question of why Wittgenstein wrote such a significant amount on probability. He wrote it because it was salient at the time. Whilst Wittgenstein was at Cambridge there was significant discussion of probability by his philosophical interlocutors, particularly Keynes but also Russell, Moore and others. Wittgenstein thought he had the answers to the problems that were being discussed and set them out in the Tractatus.</font></details>
-
-Evolutionary Game Theory:
-======
-* **Multilayer Networks and the Evolution of Risky Cooperation**
-  * <details><summary>Abstract</summary><font size = "3">Philosophers have shown that social networks significantly influence the emergence of prosocial behaviors. However, despite real social communities often being characterized by agents acting in different social spaces at the same time, network structures that capture this, such as multilayer networks, have received little study. In this paper, using the stag hunt game, I show that multilayer networks have a significant effect on the extent to which cooperation emerges in cases where cooperation is risky. Given many real social communities are multilayer, I therefore argue that when studying the impact of networks on prosocial behaviors, multilayer networks should be investigated.</font></details
-
 
 Misc:
 ======
