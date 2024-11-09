@@ -24,6 +24,7 @@ Evolutionary Game Theory
   * <details><summary>Abstract</summary><font size = "3">Philosophers have shown that social networks significantly influence the emergence of prosocial behaviors. However, despite real social communities often being characterized by agents acting in different social spaces at the same time, network structures that capture this, such as multilayer networks, have received little study. In this paper, using the stag hunt game, I show that multilayer networks have a significant effect on the extent to which cooperation emerges in cases where cooperation is risky. Given many real social communities are multilayer, I therefore argue that when studying the impact of networks on prosocial behaviors, multilayer networks should be investigated.</font></details
 
 Early Analytic Philosophy:
+
 ======
 * **Keynes, Wittgenstein, and Probability in the Tractatus**
   * Forthcoming in *HOPOS*
