@@ -25,7 +25,7 @@ Evolutionary Game Theory
 
 
 Early Analytic Philosophy
-======
+ ======
 
 * **Keynes, Wittgenstein, and Probability in the Tractatus**
   * Forthcoming in *HOPOS*
