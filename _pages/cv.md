@@ -48,6 +48,7 @@ Talks and Presentations
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
 
 **Invited**
+* “Multilayer Networks and the Evolution of Risky Cooperation”, Computational Social Philosophy Seminars, Online, January 2024
 * “Modelling Hiding Dissent in Journal Publications”, University of California Science, Values, and Policy Workshop, June 2023 
 * “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
 
@@ -61,6 +62,7 @@ Awards and Fellowships
 
 Service
 ======
+* **Panelist**, Workshop on teaching logic, UC Irvine, December 2024.
 * **Organizer**, Symposium on “Modeling the Social Structure of Science,” PPE 2024, New Orleans, November 2024.
 * **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
 * **Coordinator**, Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, UC Irvine, 2023-2024.
@@ -99,7 +101,9 @@ Research Employment and Collaborations
 
 Additional Educational and Professional Training
 ======
+* Pedagogy of Kindness Workshop, UC Irvine, Fall 2024
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
+* TA Professional Development Program, UC Irvine, Fall 2019
 * Microsoft Excel Core Certification
 
 Graduate coursework(*=audit)
