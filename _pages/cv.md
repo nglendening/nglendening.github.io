@@ -48,7 +48,7 @@ Talks and Presentations
 * "Modelling Scientific Advisory Groups". Poster at the Formal Epistemology Workshop (FEW). Irvine, CA. November 2022.
 
 **Invited**
-* “Multilayer Networks and the Evolution of Risky Cooperation”, Computational Social Philosophy Seminars, Online, January 2024
+* “Multilayer Networks and the Evolution of Risky Cooperation”, Computational Social Philosophy Seminars, Online, January 2025
 * “Modelling Hiding Dissent in Journal Publications”, University of California Science, Values, and Policy Workshop, June 2023 
 * “The Unconscious Conventionalism of the Geometry of Space Time”, 6th LSE-Bayreuth Student Philosophy Conference, University of Bayreuth, May 2018
 
