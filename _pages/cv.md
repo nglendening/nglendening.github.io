@@ -11,7 +11,7 @@ redirect_from:
 
 A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/Academic%20CV.pdf)
 
-Updated 2024/10/28
+Updated 2025/01/09
 
 Education
 ======
