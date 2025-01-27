@@ -11,7 +11,7 @@ redirect_from:
 
 A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/Academic%20CV.pdf)
 
-Updated 2025/01/09
+Updated 2025/01/25
 
 Education
 ======
@@ -37,9 +37,9 @@ Works in Progress
 Talks and Presentations
 ======
 **Refereed**
-* "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. [Forthcoming] 
-* "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
-* "Does it Harm Science to Suppress Dissenting Evidence?", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. [Forthcoming] 
+* "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. 
+* "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. 
+* "Does it Harm Science to Suppress Dissenting Evidence?", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", Philosophical Engagement with Biology and Medicine Workshop, Bielefeld University, Bielefeld, Germany. September 2024 
 * "Multilayer Networks and the Evolution of Risky Cooperation?”, Philosophy of Biology at the Mountains (POBAM) 2024. University of Utah, Salt Lake City, Utah. July 2024 
 * "Does it Harm Science to Suppress Dissenting Evidence?", Workshop on Computational Models in Social Epistemology. Bochum, Germany. December 2023 
@@ -101,6 +101,7 @@ Research Employment and Collaborations
 
 Additional Educational and Professional Training
 ======
+* Mentoring Excellence Certificate Program, UC Irvine, Winter 2025
 * Pedagogy of Kindness Workshop, UC Irvine, Fall 2024
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
 * TA Professional Development Program, UC Irvine, Fall 2019
@@ -109,6 +110,7 @@ Additional Educational and Professional Training
 Graduate coursework(*=audit)
 ======
 **UC Irvine**
+* Convention (with Cailin O'Connor)*
 * Self Assembling Games (with Jeff Barrett and Brian Skyrms)
 * Puzzles in Modern Biology (with Steve Frank)
 * How We Became Human (with Kyle Stanford)*
