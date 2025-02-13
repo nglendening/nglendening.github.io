@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matthew Coates"
+title: "Natasha Glendening"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img align="right" width="300" height="300" src="{{matthewncoates.github.io}}/images/profile.png" hspace="20" vspace="20">
 
-I am a Ph.D. candidate in Logic and Philosophy of Science at University of California, Irvine.
+I am a Ph.D. Candidate in Logic and Philosophy of Science at University of California, Irvine.
 
 I work in PPE (Politics, Philosophy and Economics). My main research interests are in computational philosophy, particularly in network epistemology, a branch of formal social epistemology that investigates how networks of agents gather and share information. My dissertation uses these tools to study the effects of bad dissent in scientific communities, and possible ways to deal with this bad dissent. 
 
