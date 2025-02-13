@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300" height="300" src="{{nglendening.github.io}}/images/NGlendening_Headshot_NYC.JPG" hspace="20" vspace="20">
+<img align="right" width="300" height="300" src="{{nglendening.github.io}}/images/NGlendening_Headshot_NYC.jpg" hspace="20" vspace="20">
 
-I am a Ph.D. Candidate in Logic and Philosophy of Science at University of California, Irvine.
+I am a Ph.D. Candidate in Public Health at University of California, Irvine.
 
-I work in PPE (Politics, Philosophy and Economics). My main research interests are in computational philosophy, particularly in network epistemology, a branch of formal social epistemology that investigates how networks of agents gather and share information. My dissertation uses these tools to study the effects of bad dissent in scientific communities, and possible ways to deal with this bad dissent. 
+My research interests mainly lie in global health and infectious disease epidemiology. I am curious about 'atypical communities' that fall out of the 
 
-I am also interested in science and policy, the philosophy of economics, the philosophy of biology, and in the history of early analytic philosophy. This latter interest is mostly focused on the work of the economist John Maynard Keynes, including his philosophy of probability and his interactions with philosophers such as Russell, Moore and Wittgenstein.
+My current dissertation work centers around investigating potential socio-behavioral and biological factors influencing malaria infections among migrants to a newly established gold mining village in Western Ethiopia.
 
-In my spare time, I enjoy birding and bird photography. 
+In my spare time, I enjoy reading and the theatre! 
 
