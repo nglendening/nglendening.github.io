@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300" height="300" src="{{matthewncoates.github.io}}/images/profile.png" hspace="20" vspace="20">
+<img align="right" width="300" height="300" src="{{nglendening.github.io}}/images/NGlendening_Headshot_NYC.JPG" hspace="20" vspace="20">
 
 I am a Ph.D. Candidate in Logic and Philosophy of Science at University of California, Irvine.
 
