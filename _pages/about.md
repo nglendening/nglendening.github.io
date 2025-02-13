@@ -13,7 +13,5 @@ I am currently a Ph.D. Candidate in Public Health at University of California, I
 
 My research interests mainly lie in the intersection of global health and infectious disease epidemiology. I am curious about 'atypical communities' that fall outside of traditional public health and public policy spheres, such as newly emerging communities. My current dissertation work centers around investigating potential socio-behavioral and biological factors influencing malaria infections among migrants to a newly established gold mining village in Western Ethiopia. 
 
-I am a big fan of storytelling in all of its many ways, and thoroughly enjoy reading, writing and the theatre! 
-
-In my spare time, I enjoy reading and the theatre! 
+I am a big fan of storytelling in all of its many ways, and thoroughly enjoy reading, writing and the theatre! I have aspirations to one day put on a stage production about the life of Benjamin Jesty, a farmer from the 1700s wo lived in a small village in England and who started smallpox innoculations. 
 
