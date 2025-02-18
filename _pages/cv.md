@@ -19,7 +19,7 @@ Education
   * Concentration in Global Health
   * Advisor: Daniel M. Parker 
 * **MSc**  African Development, *The London School of Economics and Political Science*, 2018-2019
-* **BSc (Hons)** Politics and International Relations, *The London School of Economics and Political Sciencee*, 2015-2018
+* **BSc (Hons)** Politics and International Relations, *The London School of Economics and Political Science*, 2015-2018
 
 Publications
 ======
