@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-A downloadable version of this CV can be found 
-
 Updated 2025/08/17
 
 Positions
