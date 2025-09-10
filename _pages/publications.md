@@ -18,14 +18,14 @@ I also have an interest in the general philosophy, and specifically the epistemo
 
 Publications
 ======
-**Glendening, N.** Haileselassie, W. Lee, M. Taye, B. Alemu, Y. Belachew, A. Deressa, W. Yan, G. & Parker, D.M. (2024) A cross-sectional study investigating malaria prevalence and associated predictors of infection among migrants to a newly established gold mining settlement in the Gambella Region of Ethiopia. *Malaria Journal*. 23(292). [link text] (https://doi.org/10.1186/s12936-024-05117-4)
+**Glendening, N.** Haileselassie, W. Lee, M. Taye, B. Alemu, Y. Belachew, A. Deressa, W. Yan, G. & Parker, D.M. (2024) A cross-sectional study investigating malaria prevalence and associated predictors of infection among migrants to a newly established gold mining settlement in the Gambella Region of Ethiopia. *Malaria Journal*. 23(292). (https://doi.org/10.1186/s12936-024-05117-4)
 
-**Glendening, N.** Haileselassie, W. & Parker, D.M. (2023) A conceptual framework for    understanding extractive settlements and disease: demography, environment, and epidemiology. In, (eds.) Fornace, K., Conn, J., Mureb Sallum, M., Chaves, L. & Logan, J. *Planetary health approaches to understand and control vector-borne disease*. Brill: Leiden, The Netherlands. [link text] (https://doi.org/10.3920/9789004688650_007)
+**Glendening, N.** Haileselassie, W. & Parker, D.M. (2023) A conceptual framework for    understanding extractive settlements and disease: demography, environment, and epidemiology. In, (eds.) Fornace, K., Conn, J., Mureb Sallum, M., Chaves, L. & Logan, J. *Planetary health approaches to understand and control vector-borne disease*. Brill: Leiden, The Netherlands. (https://doi.org/10.3920/9789004688650_007)
 
 Public Scholarship
 ======
 
-**Glendening, N.** (2024, June 4) Healthcare accessibility for small-scale extractive based communities: An unmet need. University of California Global Health Institute. [link text] (https://ucghi.universityofcalifornia.edu/news/healthcare-accessibility-small-scale-extractive-based-communities-unmet-need)
+**Glendening, N.** (2024, June 4) Healthcare accessibility for small-scale extractive based communities: An unmet need. University of California Global Health Institute.  (https://ucghi.universityofcalifornia.edu/news/healthcare-accessibility-small-scale-extractive-based-communities-unmet-need)
 
 Works in Progress
 ======
