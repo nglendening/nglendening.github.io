@@ -11,19 +11,19 @@ redirect_from:
 
 Updated 2025/08/17
 
-Positions
+Academic Positions
 ======
 * **Assistant Professor** in Public Health, *Santa Clara University*, 2025-
 
 Education
 ======
-* **Ph.D.** Public Health, *University of California, Irvine*, 2025
+* **Ph.D.** Public Health, *University of California, Irvine*, 2020-2025
   * Concentration in Global Health
   * Advisor: Daniel M. Parker
   * Dissertation: The social, ecological, and epidemiological dynamics of settler populations in Southwest Ethiopia
 
-* **MSc**  African Development, *The London School of Economics and Political Science*, 2019
-* **BSc (Hons)** Politics and International Relations, *The London School of Economics and Political Science*, 2018
+* **MSc**  African Development, *The London School of Economics and Political Science*, 2018-2019
+* **BSc (Hons)** Politics and International Relations, *The London School of Economics and Political Science*, 2015-2018
 
 Publications
 ======
