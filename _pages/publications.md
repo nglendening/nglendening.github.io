@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research 
+Research Interests
 =====
 
 I am a mixed methods researcher who utilixes qualitative, quantitative and spatial (GIS) methods to research socially peritnent issues in infectious disease epidemiology and global health. I have previously examined malaria prevalence and healthcare accessibility among artisinal and small-scale gold mining communities in Ethiopia and am currently utilizing machine learning and remote sensing approaches to identify unmet needs for healthcare services in the Gambella Region of Western Ethiopia. I am also collaborating on a _K01_ study under PIs Dr Annie Fehrenbacher (USC) and Dr Protim Ray (Durbar) on PrEP implementation science with hard-to-reach population in India. 
