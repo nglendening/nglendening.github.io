@@ -31,11 +31,15 @@ Publications
 
 **Glendening, N.** Haileselassie, W. & Parker, D.M. (2023) A conceptual framework for    understanding extractive settlements and disease: demography, environment, and epidemiology. In, (eds.) Fornace, K., Conn, J., Mureb Sallum, M., Chaves, L. & Logan, J. *Planetary health approaches to understand and control vector-borne disease*. Brill: Leiden, The Netherlands.  https://doi.org/10.3920/9789004688650_007 
 
+Public Scholarship
+======
+
+**Glendening, N.** (2024, June 4) Healthcare accessibility for small-scale extractive based communities: An unmet need. University of California Global Health Institute. https://ucghi.universityofcalifornia.edu/news/healthcare-accessibility-small-scale-extractive-based-communities-unmet-need
+
 Works in Progress
 ======
 
 Predicting atypical settlement in the Gambella Region of Ethiopia: A remote sensing and machine learning approach
-
 
 Talks and Presentations
 ======
