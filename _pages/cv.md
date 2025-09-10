@@ -19,7 +19,9 @@ Education
 ======
 * **Ph.D.** Public Health, *University of California, Irvine*, 2025
   * Concentration in Global Health
-  * Advisor: Daniel M. Parker 
+  * Advisor: Daniel M. Parker
+  * Dissertation: The social, ecological, and epidemiological dynamics of settler populations in Southwest Ethiopia
+
 * **MSc**  African Development, *The London School of Economics and Political Science*, 2019
 * **BSc (Hons)** Politics and International Relations, *The London School of Economics and Political Science*, 2018
 
@@ -38,6 +40,7 @@ Predicting atypical settlement in the Gambella Region of Ethiopia: A remote sens
 Talks and Presentations
 ======
 **Refereed**
+
 “Analysis of malaria prevalence and health services in a gold mining site in western Ethiopia: A mixed methods research study”, *American Society of Tropical Medicine & Hygiene (ASTMH)*. New Orleans (USA). November 2024. 
 
 “A cross-sectional study examining malaria risk factors among migrants to a gold-mining settlement in Ethiopia”, *UC Global Health Day*. UCLA, Los Angeles (USA). March 2024. 
