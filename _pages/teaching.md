@@ -11,6 +11,7 @@ I have a strong interest in higher education pedagogy. During my PhD at UC Irvin
 **Santa Clara University** 
 * Epidemiology, Winter 2026
 
+
 **University of California, Irvine** 
 
 _Instructor_
@@ -20,6 +21,6 @@ _Instructor_
 _Teaching Assistant_
 * Infectious Disease Epidemiology, Winter 2022, Winter 2024, Winter 2025 
 * Natural Disasters, Fall 2024
-* Healthcare Organizations, Spring 2024
+* Healthcare Organizations, Spring 2024, Spring 2025 
 * Introduction to Epidemiology, Spring 2021, Spring 2022, Fall 2022, Winter 2023, Spring 2023, Fall 2023, Fall 2024
 * Public Health Practicum, Fall 2020, Winter 2021
