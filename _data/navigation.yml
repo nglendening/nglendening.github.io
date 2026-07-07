@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
    
-- title: "Lab" 
-   url: /lab/
+  - title: "Lab" 
+    url: /lab/
