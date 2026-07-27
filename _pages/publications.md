@@ -31,3 +31,5 @@ Works in Progress
 ======
 
 Predicting atypical settlement in the Gambella Region of Ethiopia: A remote sensing and machine learning approach
+
+Corporate Tech and Public Trust in US Mosquito Control 
