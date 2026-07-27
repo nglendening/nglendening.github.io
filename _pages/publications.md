@@ -14,7 +14,9 @@ Research Interests
 
 I am a mixed methods researcher who utilixes qualitative, quantitative and spatial (GIS) methods to research socially peritnent issues in infectious disease epidemiology and global health. I have previously examined malaria prevalence and healthcare accessibility among artisinal and small-scale gold mining communities in Ethiopia and am currently utilizing machine learning and remote sensing approaches to identify unmet needs for healthcare services in the Gambella Region of Western Ethiopia. I am also collaborating on a _K01_ study under PIs Dr Annie Fehrenbacher (USC) and Dr Protim Ray (Durbar) on PrEP implementation science with hard-to-reach population in India. 
 
-I also have an interest in the general philosophy, and specifically the epistemology, of public global health and the application of _Values in Science_ within public global health. I firmly believe in multi-disciplinary research and am always excited to collaborate on cross-disciplinary research. I am of the strong belief that different disciplines can unlock different ideas, perspectives and ways of understanding peritinent social issues! 
+I also have an interest in the general philosophy, and specifically the epistemology, of public global health and the application of _Values in Science_ within public global health. I firmly believe in multi-disciplinary research and am always excited to collaborate on cross-disciplinary research. I am of the strong belief that different disciplines can unlock different ideas, perspectives and ways of understanding pertinent social issues! I am currently collaborating with philosopher [Dr Matthew Coates](https://matthewncoates.github.io/) (UPenn - Philosophy, Politics and Economics (PPE) program) on a project regarding _Corporate Tech and Public Trust in US Mosquito Control_ where we investigate concepts of Democratic Consent and Institutional Trust in Public Comments on Wolbachia-Based Vector Control in the United States. 
+
+
 
 Publications
 ======
