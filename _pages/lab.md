@@ -9,7 +9,6 @@ author_profile: true
 *Gracie Fufa*
 <img align="left" width="300" height="300" src="{{nglendening.github.io}}/images/HC9A9690.jpeg" hspace="20" vspace="20">
 
-
 Gracie is a junior at Santa Clara University pursuing a B.S. in Public Health with a minor in
 Biology on the pre-medical track. Her interest in public health and epidemiology stems from a
 desire to understand how factors beyond the clinic, including healthcare accessibility, social
