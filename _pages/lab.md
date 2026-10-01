@@ -21,10 +21,12 @@ conditions.
 
 *Setay Assadzadeh* 
 
-Setay is a junior at Santa Clara University. 
-
+Setayesh Assadzadeh is a junior at Santa Clara University, majoring in Public Health Sciences on the pre-medical track with a minor in Healthcare Innovation and Design. Her research interests center on epidemiology, healthcare access, and the social determinants that shape health outcomes, particularly within pediatric, palliative, and global health. She is especially interested in preventative approaches that address barriers to care before they lead to poorer outcomes. Setayesh hopes to pursue an MD/MBA and build a career as a physician while also working in healthcare technology and consulting to improve how care is designed, accessed, and delivered.
 
 *Pooja Gadhvi*
 <img align="left" width="300" height="300" src="/images/Pooja2.jpg" hspace="20" vspace="20">
 
 Pooja is a a dentist trained in India with a Master of Public Health in Epidemiology from the University of California, Irvine. Her research interests include epidemiology, global health, oral cancer, and artificial intelligence applications in healthcare. Pooja is excited to be part of Dr. Natasha Glendening's lab, where she is  contributing to a research project investigating malaria among migrants from Sub-Saharan Africa. She enjoys collaborating on interdisciplinary research that addresses important public health challenges and expands her perspective across different areas of epidemiology.
+
+
+
