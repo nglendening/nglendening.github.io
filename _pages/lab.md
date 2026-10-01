@@ -7,7 +7,7 @@ author_profile: true
 **Lab Members**
 
 *Gracie Fufa*
-<img align="left" width="300" height="300" src="{{nglendening.github.io}}/images/HC9A9690.jpeg" hspace="20" vspace="20">
+<img align="left" width="300" height="300" src="/images/HC9A9690.jpeg" hspace="20" vspace="20">
 
 Gracie is a junior at Santa Clara University pursuing a B.S. in Public Health with a minor in
 Biology on the pre-medical track. Her interest in public health and epidemiology stems from a
