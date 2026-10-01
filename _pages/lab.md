@@ -21,6 +21,6 @@ conditions.
 
 
 *Pooja Gadhvi*
-<img align="left" width="300" height="300" src="/images/Pooja.jpg" hspace="20" vspace="20">
+<img align="left" width="300" height="300" src="/images/Pooja2.jpg" hspace="20" vspace="20">
 
 Pooja is a a dentist trained in India with a Master of Public Health in Epidemiology from the University of California, Irvine. Her research interests include epidemiology, global health, oral cancer, and artificial intelligence applications in healthcare. Pooja is excited to be part of Dr. Natasha Glendening's lab, where she is  contributing to a research project investigating malaria among migrants from Sub-Saharan Africa. She enjoys collaborating on interdisciplinary research that addresses important public health challenges and expands her perspective across different areas of epidemiology.
