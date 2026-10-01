@@ -19,6 +19,10 @@ plans to attend medical school and pursue a career in pediatric endocrinology, c
 clinical care, research, and advocacy to improve health outcomes for children living with chronic
 conditions.
 
+*Setay Assadzadeh* 
+
+Setay is a junior at Santa Clara University. 
+
 
 *Pooja Gadhvi*
 <img align="left" width="300" height="300" src="/images/Pooja2.jpg" hspace="20" vspace="20">
